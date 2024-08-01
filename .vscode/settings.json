@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "map": "cpp",
+        "queue": "cpp",
+        "__tree": "cpp",
+        "tuple": "cpp",
+        "limits": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp"
+    }
+}
